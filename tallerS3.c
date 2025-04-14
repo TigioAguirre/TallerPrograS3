@@ -5,9 +5,6 @@
 //MAcias Isaac
 
 #include <stdio.h>
-#define ESTUDIANTES 5
-#define ASIGNATURAS 3
-
 int main() {
     
     float calificaciones[ESTUDIANTES][ASIGNATURAS];
